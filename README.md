@@ -1,7 +1,7 @@
 <table>     
     <tr>
       <p>Gerente de Projetos<p> 
-      <td align="center"><a href="https://www.linkedin.com/in/maria-eduarda-benício-0112961ab"><img style="border-radius: 50%;" src="https://i.ibb.co/KrsqqYG/Maria-Eduarda-1.png" width="150px;" alt=""/><br /><sub><b>Maria Eduarda</b></sub></a><br /></td>
+      <td align="center">   <p>Gerente de Projetos<p>  <a href="https://www.linkedin.com/in/maria-eduarda-benício-0112961ab"><img style="border-radius: 50%;" src="https://i.ibb.co/KrsqqYG/Maria-Eduarda-1.png" width="150px;" alt=""/><br /><sub><b>Maria Eduarda</b></sub></a><br /></td>
       <td align="center"><a href="https://www.linkedin.com/in/kevin-ramos-71ba56209"><img style="border-radius:50%;" src="https://i.ibb.co/MRJG2cW/kevin.png" width="150px;" alt=""/><br /><sub><b>Kevin</b></sub></a><br /></td>
       <td align="center"><a href="https://"><img style="border-radius: 50%;" src="https://i.ibb.co/KjQfRdS/Thais-2.png" width="150px;" alt=""/><br /><sub><b>Thais</b></sub></a><br /></td>
     </tr>
